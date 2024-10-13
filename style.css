@@ -1,0 +1,101 @@
+body {
+    color: ghostwhite;
+    background: black;
+    margin: 1px;
+    font-family: "Quattrocento", serif;
+    margin-bottom: 150px;
+}
+
+header {
+    border-bottom: solid 1px gold;
+    padding: 15px;
+    font-size: 28px;
+    color: gold;
+    font-family: "Quattrocento", serif;
+}
+
+.chamada {
+    padding-bottom: 55px;
+    padding-top: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    height: 175px;
+}
+
+.mais-recomendações {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.recomendações {
+    padding-left: 15px;
+    padding-left: 15px;
+    margin-top: 35px;
+}
+
+.mais-recomendações img {
+    opacity: 0.3;
+}
+
+.recomendações img:hover {
+    opacity: 1.0;
+    border: 1px solid gold;
+}
+
+.recomendações h2 {
+    color: gold
+}
+
+.mais-dicas {
+    font-size: 15px;
+    padding: 2%;
+}
+
+.dicas {
+    margin-top: 4%;
+    padding-left: 15px;
+}
+
+.investimentos {
+    margin-top: 2%;
+    font-size: 15px;
+}
+
+.saúde-financeira {
+   font-size:17px 
+}
+
+.economista {
+    font-size: 18px;
+}
+
+.gastos {
+    font-size: 25px;
+}
+
+.dívidas {
+    font-size: 15px;
+}
+
+.dicas-mais h3 {
+    font-size: 40px;
+    color: gold;
+    border-bottom: solid 1px gold;
+    padding-left: 550px;
+}
